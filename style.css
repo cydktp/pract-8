@@ -1,0 +1,14 @@
+table {
+    border: red 1px solid;
+}
+td.azul {
+    border: blue 3px solid;
+}
+table.tres{
+    border: teal 1px solid;
+    width: 70%;
+}
+td.dos{
+    border: teal 1px solid;
+    text-align: center;
+}
